@@ -184,7 +184,7 @@ Email phish EventTypes:
 
 - Anti-spoof: external domain (Indicates an external message caught by anti-phish spoof protection.)
 
-- Dmarc (Indicates a message for which the sender was marked as not authenticated by DMARC.)
+- DMARC failure (Indicates a message for which the sender was marked as not authenticated by DMARC.)
 
 - Domain impersonation\* (Indicates a message impersonating a domain protected by an anti-phish policy.)
 
